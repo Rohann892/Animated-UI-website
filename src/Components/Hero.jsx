@@ -13,7 +13,7 @@ const Hero = () => {
         className="inline-flex items-center gap-2 border border-gray-300 p-1.5 pr-4 rounded-full"
       >
         <img src={assets.group_profile} alt="" className="w-20" />
-        <p className="text-xs font-medium">Trusted by 10k people</p>
+        <p className="text-xs font-medium">Trusted by no one</p>
       </motion.div>
 
       <motion.h1
